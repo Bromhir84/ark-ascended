@@ -68,7 +68,7 @@
 						"chancetodrop": 0.9
 					},
 										{
-						"dino": "/Cat_Character_BP.Cat_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
 						"chancetodrop": 0.9
 					},
 										{
