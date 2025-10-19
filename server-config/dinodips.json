@@ -67,18 +67,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
 						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP",
-						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 5
@@ -128,6 +116,18 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
 						"chancetodrop": 0.95
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
+						"chancetodrop": 0.9
+					},
+					{
+						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP",
+						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP",
+						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 5
