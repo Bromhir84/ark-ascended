@@ -71,6 +71,38 @@
 				],
 				"dipstogive": 5
 			},
+			"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP",
+						"chancetodrop": 0.25
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP",
+						"chancetodrop": 0.25
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP",
+						"chancetodrop": 0.25
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
+						"chancetodrop": 0.25
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
+						"chancetodrop": 0.4
+					},
+					{
+						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP",
+						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP",
+						"chancetodrop": 0.4
+					}
+				],
+				"dipstogive": 2
+			},
 			{
 				"weekforoptions": [
 					{
@@ -116,18 +148,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
 						"chancetodrop": 0.95
-					},
-					{
-						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP",
-						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 5
