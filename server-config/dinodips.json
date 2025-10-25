@@ -71,6 +71,7 @@
 				],
 				"dipstogive": 5
 			},
+		{
 			"weekforoptions": [
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP",
