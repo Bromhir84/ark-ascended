@@ -99,6 +99,14 @@
 					{
 						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP",
 						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_B",
+						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP",
+						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 2
