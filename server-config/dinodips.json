@@ -309,9 +309,13 @@
 					{
 						"dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP",
 						"chancetodrop": 0.2
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP",
+						"chancetodrop": 0.2
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
