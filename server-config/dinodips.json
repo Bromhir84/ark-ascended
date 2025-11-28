@@ -1,7 +1,7 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP",
+			"/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
 			"/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
