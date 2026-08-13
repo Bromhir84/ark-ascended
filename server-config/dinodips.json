@@ -1,14 +1,9 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
 			"/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C"
+			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Large/Axolotl_Large_Character_BP.Axolotl_Large_Character_BP_C",
+			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
@@ -75,39 +70,39 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP",
+						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
 						"chancetodrop": 0.25
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP",
+						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
 						"chancetodrop": 0.25
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP",
+						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
 						"chancetodrop": 0.25
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
+						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
 						"chancetodrop": 0.25
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
-						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP",
+						"dino":	"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_B",
+						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP",
+						"dino": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP",
+						"dino": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
 						"chancetodrop": 0.4
 					}
 				],
@@ -225,28 +220,11 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
+						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
 						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-						"chancetodrop": 0.1
-					},
-					{
-						"dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
-						"chancetodrop": 0.1
-					},
-					{
-						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
-						"chancetodrop": 0.1
-					}
-				],
-				"dipstogive": 1
 			},
 			{
 				"weekforoptions": [
