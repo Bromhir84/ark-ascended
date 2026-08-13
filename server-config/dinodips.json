@@ -1,7 +1,7 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft",
+			"/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft_C",
 			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Large/Axolotl_Large_Character_BP.Axolotl_Large_Character_BP_C",
 			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C"
 		],
@@ -212,7 +212,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
+						"dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -281,15 +281,15 @@
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP",
+						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP",
+						"dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP",
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
 						"chancetodrop": 0.2
 					}
 				],
@@ -334,11 +334,11 @@
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP",
+						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP",
+						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 						"chancetodrop": 0.2
 					}
 				],
