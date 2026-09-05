@@ -4,9 +4,9 @@
 			"/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft_C",
 			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Large/Axolotl_Large_Character_BP.Axolotl_Large_Character_BP_C",
 			"/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C",
-			"/Game/Genesis/Dinos/MissionVariants/Race/RaceDolphin_Character_BP.RaceDolphin_Character_BP",
-			"/Game/Genesis/Dinos/MissionVariants/Race/Manta_Character_BP_Race.Manta_Character_BP_Race",
-			"/Game/Genesis/Dinos/MissionVariants/Race/Snow_Rhino_Character_BP_Race.Snow_Rhino_Character_BP_Race"
+			"/Game/Genesis/Dinos/MissionVariants/Race/RaceDolphin_Character_BP.RaceDolphin_Character_BP_C",
+			"/Game/Genesis/Dinos/MissionVariants/Race/Manta_Character_BP_Race.Manta_Character_BP_Race_C",
+			"/Game/Genesis/Dinos/MissionVariants/Race/Snow_Rhino_Character_BP_Race.Snow_Rhino_Character_BP_Race_C"
 		],
 		"weeksarrays": [
 			{
