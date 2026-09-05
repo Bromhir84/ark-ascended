@@ -7,7 +7,9 @@
 			"/Game/Genesis/Dinos/MissionVariants/Race/RaceDolphin_Character_BP.RaceDolphin_Character_BP_C",
 			"/Game/Genesis/Dinos/MissionVariants/Race/Manta_Character_BP_Race.Manta_Character_BP_Race_C",
 			"/Game/Genesis/Dinos/MissionVariants/Race/Snow_Rhino_Character_BP_Race.Snow_Rhino_Character_BP_Race_C",
-			"/Game/Genesis/Dinos/MissionVariants/Race/BogSpider_Character_BP_Race.BogSpider_Character_BP_Race_C"
+			"/Game/Genesis/Dinos/MissionVariants/Race/BogSpider_Character_BP_Race.BogSpider_Character_BP_Race_C",
+			"/Game/Genesis/Dinos/MissionVariants/Sport/Dodo_Character_BP_Basketball.Dodo_Character_BP_Basketball_C",
+			"/Game/Genesis/Dinos/MissionVariants/Sport/LanternPug_Character_BP_Basketball.LanternPug_Character_BP_Basketball_C"
 		],
 		"weeksarrays": [
 			{
