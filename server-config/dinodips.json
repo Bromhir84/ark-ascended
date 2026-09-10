@@ -111,6 +111,10 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
 						"chancetodrop": 0.6
+					},
+					{
+						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 5
@@ -144,10 +148,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
 						"chancetodrop": 0.3
-					},
-					{
-						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
-						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 5
