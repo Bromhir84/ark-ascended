@@ -208,6 +208,10 @@
 						"chancetodrop": 0.2
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+						"chancetodrop": 0.2
+					},
+					{
 						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
 						"chancetodrop": 0.4
 					}
