@@ -201,19 +201,19 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
-						"chancetodrop": 0.2
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-						"chancetodrop": 0.2
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-						"chancetodrop": 0.2
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
-						"chancetodrop": 0.4
+						"chancetodrop": 0.5
 					}
 				],
 				"dipstogive": 5
