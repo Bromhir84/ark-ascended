@@ -323,18 +323,6 @@
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
-						"chancetodrop": 0.2
-					},
-					{
-						"dino": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
-						"chancetodrop": 0.2
-					},
-					{
-						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
-						"chancetodrop": 0.2
-					},
-					{
 						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 						"chancetodrop": 0.2
 					}
