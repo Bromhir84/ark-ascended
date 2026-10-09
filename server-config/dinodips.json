@@ -325,6 +325,10 @@
 					{
 						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 						"chancetodrop": 0.2
+					},
+					{
+						"dino": "/PA_EVO_Pack_03/Dinos/EVO_Therizino/Paleo/EVO_Paleo_Therizino_Character_BP.EVO_Paleo_Therizino_Character_BP_C",
+						"chancetodrop": 0.2
 					}
 				],
 				"dipstogive": 5
